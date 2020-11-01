@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hjmiranda02@gmail.com)
 
 
-<img align= "right" width= "240" src= "https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA/fullscreen">
+<img align= "right" width= "240" src= "C:\Users\HJM\Desktop\giphy.gif">
 
 Here are some ideas to get you started:
 
