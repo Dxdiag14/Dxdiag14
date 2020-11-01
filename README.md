@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hjmiranda02@gmail.com)
 
 
-<img align= "right" width= "240" src= "https://thumbs.gfycat.com/AbandonedQuickAmericanblackvulture-small.gif>">
+<img align= "right" width= "240" src= "https://thumbs.gfycat.com/AbandonedQuickAmericanblackvulture-small.gif">
 
 Here are some ideas to get you started:
 
