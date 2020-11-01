@@ -2,8 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/Dxdiag14/Dxdiag14.svg)](http://hits.dwyl.com/Dxdiag14/Dxdiag14)
 
-<!--
-**Dxdiag14/Dxdiag14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my project soon
 - 💬 Ask me about how get into this field
 - 📫 How to reach me: <a href="https://www.facebook.com/HJ.mrnd.14/"> Let;s get in touch </a>
-
--->
