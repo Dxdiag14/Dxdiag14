@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hjmiranda02@gmail.com)
 
 
-<img align= "right" width= "240" src= "<div style='position:relative; padding-bottom:calc(53.30% + 44px)'><iframe src='https://gfycat.com/ifr/AbandonedLameCygnet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/abandonedlamecygnet">via Gfycat</a></p>">
+<img align= "right" width= "240" src= "https://thumbs.gfycat.com/AbandonedQuickAmericanblackvulture-small.gif>">
 
 Here are some ideas to get you started:
 
