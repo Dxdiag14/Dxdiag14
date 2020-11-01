@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my project soon
 - 💬 Ask me about how get into this field
 - 📫 How to reach me: <a href="https://www.facebook.com/HJ.mrnd.14/"> Let;s get in touch </a>
+
+<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=Dxdiag14&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
+/>
+
