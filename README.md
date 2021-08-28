@@ -6,9 +6,6 @@
 [![Facebook](https://img.shields.io/badge/-Twitter-4ba1f2?style=flat&labelColor=4ba1f2&logo=twitter&logoColor=white)](https://twitter.com/Dxxxdiag13)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hjmiranda02@gmail.com)
 
-
-<img align= "right" width= "240" src= "https://thumbs.gfycat.com/AbandonedQuickAmericanblackvulture-small.gif">
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in University Of Caloocan City (Philippines)
