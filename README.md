@@ -7,10 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in University Of Caloocan City (Philippines)
-- 🌱 I’m currently taking the course of Web Development Bootcamp 2021 on Udemy.
-- 👯 I’m looking to collaborate on other Front-end Developers
-- 🤔 I’m looking for help with my project soon
+- 🔭 I’m currently working at Moylan's Insurance Company as Jr. Programmer and Data Analyst
+- 🌱 I’m currently studying ReactJS, Vite, NextJS, MERN Stack, Headless CMS, RapidAPI, Web 3
+- 👯 I’m looking to be a Software Engineer
 - 💬 Ask me about how get into this field
 - 📫 How to reach me: <a href="https://www.facebook.com/HJ.mrnd.14/"> Let;s get in touch </a>
 
