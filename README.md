@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Moylan's Insurance Company as Jr. Programmer and Data Analyst
-- 🌱 I’m currently studying ReactJS, Vite, NextJS, MERN Stack, Headless CMS, RapidAPI, Web 3
+- 🌱 I’m currently studying ReactJS, Vite, NextJS, MERN Stack, Headless CMS, API's, Web 3
 - 👯 I’m looking to be a Software Engineer
 - 💬 Ask me about how get into this field
 - 📫 How to reach me: <a href="https://www.facebook.com/HJ.mrnd.14/"> Let;s get in touch </a>
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=Dxdiag14&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
 
-Last Edited on: 01/18/2023
+Last Edited on: 01/27/2023
